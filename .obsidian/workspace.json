@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999 Vault Resources/Templates/Quick Note Template.md",
+                "file": "000 Inbox/Quick Notes/Creating a new file with quick add.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Note Template"
+              "title": "Creating a new file with quick add"
             }
           }
         ]
@@ -221,9 +221,20 @@
   },
   "active": "9a91d620a5aea678",
   "lastOpenFiles": [
-    "300 Hobbies/311 EDH TEST.md",
-    "300 Hobbies/311 EDH TEST",
+    "999 Vault Resources/Scripts/Javascript/quickNote.js",
+    "000 Inbox/Quick Notes/hellop.md",
+    "000 Inbox/Quick Notes/Class Template.md",
+    "000 Inbox/Quick Notes/Creating a new file with quick add.md",
+    "000 Inbox/Quick Notes/Template Snippet MOC.md",
+    "000 Inbox/Quick Notes/Create SNHU Templates.md",
     "999 Vault Resources/Templates/Quick Note Template.md",
+    "300 Hobbies/311 EDH TEST/one more time.md",
+    "300 Hobbies/311 EDH TEST",
+    "300 Hobbies/311 EDH TEST.md",
+    "300 Hobbies/311 EDH TEST/again.md",
+    "999 Vault Resources/Templates/EDH Deck.md",
+    "300 Hobbies/311 EDH TEST/pmasdlfkj.md",
+    "300 Hobbies/311 EDH TEST/now.md",
     "300 Hobbies/311 EDH TEST/try again.md",
     "999 Vault Resources/Scripts/Javascript/getTemplateContent.js",
     "999 Vault Resources/Scripts/Javascript/getTemplateFile.js",
@@ -238,7 +249,6 @@
     "000 Inbox/Created Folder/alkdfjwl",
     "000 Inbox/Created Folder/aklsdfjlwmefoi.md",
     "000 Inbox/Created Folder/aklsdfjlwmefoi",
-    "999 Vault Resources/Templates/EDH Deck.md",
     "000 Inbox/Created Folder/askdlfjasdlkj.md",
     "000 Inbox/Created Folder/askdlfjasdlkj",
     "000 Inbox/Created Folder/asdf.md",
@@ -246,15 +256,6 @@
     "000 Inbox/Created Folder/asdlfkj.md",
     "000 Inbox/CreatedFolder/again.md",
     "000 Inbox/new notes.md",
-    "000 Inbox/CreatedFolder/asdf.md",
-    "000 Inbox/CreatedFolder/aslkdfjl.md",
-    "000 Inbox/CreatedFolder/working now.md",
-    "000 Inbox/CreatedFolder/working.md",
-    "000 Inbox/CreatedFolder/one more time.md",
-    "000 Inbox/Quick Notes/Untitled.md",
-    "000 Inbox/Quick Notes/Quick Note.md",
-    "999 Vault Resources/Templates/Basic Note.md",
-    "000 Inbox/_Inbox.md",
-    "000 Inbox/asldkfjawe.md"
+    "000 Inbox/CreatedFolder/asdf.md"
   ]
 }
