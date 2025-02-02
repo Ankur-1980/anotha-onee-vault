@@ -1,0 +1,13 @@
+# MOCs
+- No child folders
+	- this is where all the MOCs will live
+	- If you follow the folder naming convention this folder should stay tidy 
+		- (100, 110, 111)
+- MOC of MOCs
+	- Links to Parent folder MOCs
+	- Highest level - Hundreds
+		- 100, 200, 300, etc
+- Parent Folder MOCs - tens
+	- contain child MOCs
+		- 110, 220, 340, etc
+- 

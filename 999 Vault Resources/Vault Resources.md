@@ -1,0 +1,11 @@
+# Vault Resources
+- This is where things for the vault live
+	- default folders
+	- Images
+	- PDFs
+	- Scripts
+	- Snippets
+	- Templates
+	- Metadata
+	- Excalidraw
+	- 

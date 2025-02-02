@@ -1,0 +1,42 @@
+{
+  "callouts": {
+    "custom": [
+      "cone",
+      "inspiration"
+    ],
+    "settings": {
+      "cone": [
+        {
+          "changes": {
+            "icon": "lucide-traffic-cone",
+            "color": "208, 66, 85"
+          }
+        }
+      ],
+      "inspiration": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 200, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

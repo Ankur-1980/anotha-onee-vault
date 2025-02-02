@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": true,
+  "excludeFirstLineInNote": false,
+  "openNewNote": true,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "000 Inbox/Quick Notes",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "",
+  "normalizeHeaderLevels": false
+}

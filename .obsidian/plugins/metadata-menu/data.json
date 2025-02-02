@@ -1,0 +1,115 @@
+{
+  "presetFields": [
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesFromDVQuery": "console.log('start')\n\nconst page = dv.page(\"EDH Color Identities\");\n\nif (page) {\n    page.file.lists.map(l => l.text); // Extracts list items as strings\n} else {\n    dv.paragraph(`Page \"${pageName}\" not found.`);\n}",
+        "valuesListNotePath": "999 Vault Resources/Metadata/EDH/EDH Color Identities.md"
+      },
+      "name": "color_identity",
+      "id": "1wiPpl",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesListNotePath": "999 Vault Resources/Metadata/EDH/EDH Themes.md"
+      },
+      "name": "deck_themes",
+      "id": "J9Phoy",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesListNotePath": "999 Vault Resources/Metadata/EDH/EDH Status.md"
+      },
+      "name": "deck_building_status",
+      "id": "db8xyK",
+      "path": ""
+    },
+    {
+      "type": "Multi",
+      "tagName": "multi",
+      "icon": "bullet-list",
+      "tooltip": "Accepts multiple values from a list",
+      "colorClass": "multi",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesListNotePath": "999 Vault Resources/Metadata/EDH/EDH Kindred.md"
+      },
+      "name": "kindred",
+      "id": "h7k2ic",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesList": {},
+        "valuesListNotePath": "999 Vault Resources/Metadata/EDH/EDH Deck Origin.md"
+      },
+      "name": "deck_origin",
+      "id": "w61i45",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": false,
+  "globallyIgnoredFields": [],
+  "classFilesPath": "999 Vault Resources/Metadata/FileClass/",
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.17",
+  "globalFileClass": "",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asList",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [
+    "/999 Vault Resources/Metadata/",
+    "/999 Vault Resources/Templates/"
+  ],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": true,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
+}

@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "deck_origin": "multitext",
+    "color_identity": "multitext",
+    "date_created": "datetime",
+    "date_modified": "datetime"
+  }
+}
